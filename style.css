@@ -1,8 +1,7 @@
 body {
     background-color: #450edd42;
 }
-    
-    
+
 .logo {
     background-color: rgba(204, 15, 15, 0.932);
     text-align: center;
@@ -10,7 +9,8 @@ body {
     width: 56%;
     padding: 20px 20px;
     margin-left: 35%;
-    } 
+}
+
 .map {
     background-color: white;
     height: 900px;
@@ -19,30 +19,37 @@ body {
     margin-left: 35%;
     padding-top: 10px;
 }
+
 .map img {
     margin-top: 5%;
     margin-left: -50%;
     width: 40%;
 }
+
 .jan {
     margin-left: 39%;
     margin-top: -28%;
-    }
+}
+
 .opera img {
     margin-top: -190%;
     margin-left: 38%;
     width: 24%;
 }
-.house{
-margin-left: 65%;
-margin-top: -16%;
+
+.house {
+    margin-left: 65%;
+    margin-top: -16%;
 }
-.Google{
+
+.Google {
     margin-top: -34%;
 }
-.nov img{
-     margin-left: 38%; 
+
+.nov img {
+    margin-left: 38%;
 }
-.norway{
+
+.norway {
     margin-top: 4%;
 }
